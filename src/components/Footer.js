@@ -1,11 +1,9 @@
-import React from 'react'
-
 const Footer = () => {
-    return (
-        <div className='footer'>
-            Copyright © 2021, @its-ayush-07, All rights reserved
-        </div>
-    )
-}
+	return (
+		<h4 style={{ fontSize: 10, textAlign: "center" }}>
+			Copyright © 2022, @its-ayush-07, All rights reserved
+		</h4>
+	);
+};
 
-export default Footer
+export default Footer;

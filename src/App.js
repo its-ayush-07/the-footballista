@@ -1,22 +1,17 @@
-import React from 'react'
-import NavBar from './components/NavBar'
-import LiveScores from './components/LiveScores'
-import Standings from './components/Standings'
-import Fixtures from './components/Fixtures'
-import Results from './components/Results'
-import Footer from './components/Footer'
+import NavBar from "./components/NavBar";
+import CoverPicture from "./components/CoverPicture";
+import LiveScores from "./components/LiveScores";
+import Footer from "./components/Footer";
 
 const App = () => {
-    return (
-        <>
-            <NavBar />
-            <LiveScores />
-            <Standings />
-            <Fixtures />
-            <Results />
-            <Footer />
-        </>
-    )
-}
+	return (
+		<>
+			<NavBar />
+			<CoverPicture />
+			<LiveScores />
+			<Footer />
+		</>
+	);
+};
 
-export default App
+export default App;

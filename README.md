@@ -1,17 +1,47 @@
-# The Footballista
-###  A single page web application, that shows real time live scores from football matches around the world and statistics from the top 5 football leagues in the world.
+## The Footballista
+An application to follow all the football action around the world.
 
-## Technologies used:
-#### Front-end: React.js(Hooks), axios, HTML, CSS, Material UI and Bootstrap
-#### API: [API-Football](https://www.api-football.com/)
+### Features
+- Real time live scores
+- Tables
+- Fixtures and results
+- Team squads
+
+### Tech stack
+**Front-end:** React.js, HTML, CSS, and Bootstrap <br/>
+**API:** [API-Football](https://www.api-football.com/)<br/>
+**Packages:** axios, react-router
 
 ### Installation
-#### Clone the repository to your local device 
+
+- Fork the repository<br/>
+- Clone the repository to your local device
+
 ```
-git clone "https://github.com/its-ayush-07/the-footballista"
+git clone "https://github.com/YOUR_USERNAME/the-footballista"
 ```
-#### Run
+- Navigate to the root directory
+```
+cd the-footballista
+```
+- Install the packages and dependencies
 ```
 npm install
+```
+- Run the server
+```
 npm start
 ```
+- View the website at http://localhost:3000
+
+### Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`REACT_APP_API_URL`
+
+`REACT_APP_API_HOST`
+
+`REACT_APP_API_KEY`
+
+### [API Documentation](https://www.api-football.com/documentation-v3)

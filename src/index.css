@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
+
+* {
+	font-family: "Merriweather", serif;
+}
+
+.image-container {
+	position: relative;
+	width: 100%;
+}
+
+.image-text {
+	position: absolute;
+	bottom: 20%;
+	left: 5%;
+	font-size: 4vw;
+}
+
+.stadium-container {
+	position: relative;
+}
+
+.logo-img {
+	width: 20%;
+	height: 40%;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.link {
+	text-decoration: none;
+	color: black;
+}

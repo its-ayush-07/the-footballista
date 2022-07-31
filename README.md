@@ -48,8 +48,8 @@ To run this project, you will need to add the following environment variables to
 
 ### Screenshots
 <p float="left">
-<img src="https://user-images.githubusercontent.com/74665996/182010495-8882a09d-e401-435b-a1a1-d25b69082bb4.jpg" width="200" /> &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/74665996/182010493-fe8a1a0a-9a12-410d-9f11-44bec6746625.jpg" width="200" /> &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/74665996/182010491-b3662d1a-5cf2-495b-b6ae-d9753d538c98.jpg" width="200" /> &nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/74665996/182010495-8882a09d-e401-435b-a1a1-d25b69082bb4.jpg" width="200" /> &nbsp;
+<img src="https://user-images.githubusercontent.com/74665996/182010493-fe8a1a0a-9a12-410d-9f11-44bec6746625.jpg" width="200" /> &nbsp;
+<img src="https://user-images.githubusercontent.com/74665996/182010491-b3662d1a-5cf2-495b-b6ae-d9753d538c98.jpg" width="200" /> &nbsp;
 <img src="https://user-images.githubusercontent.com/74665996/182010489-9316a7d3-382c-477a-acac-e2d0433a1f37.jpg" width="200" />
 </p>
